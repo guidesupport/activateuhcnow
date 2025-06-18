@@ -11,7 +11,21 @@ To activate your UCard on UnitedHealthcare, visit the official activation page a
    :align: center
 
 
-  .. raw:: html
+ 
+
+
+Why Activate Your UnitedHealthcare Card?
+------------------------
+
+Activating your UCard is the first step to using your UnitedHealthcare benefits. Once activated, you can:
+
+- Access medical and prescription benefits.
+- Use your UCard for rewards and utility bill payments (if eligible).
+- Shop for healthy foods or OTC items.
+- View account balance and coverage information online or in the app.
+
+
+ .. raw:: html
 
     <script type="application/ld+json">
     {
@@ -78,17 +92,6 @@ To activate your UCard on UnitedHealthcare, visit the official activation page a
     }
     </script>
 
-
-
-Why Activate Your UnitedHealthcare Card?
-------------------------
-
-Activating your UCard is the first step to using your UnitedHealthcare benefits. Once activated, you can:
-
-- Access medical and prescription benefits.
-- Use your UCard for rewards and utility bill payments (if eligible).
-- Shop for healthy foods or OTC items.
-- View account balance and coverage information online or in the app.
 
 Easy Steps to Activating Your UCard at Activate.UHC.com
 -----------------------------------------------
