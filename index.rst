@@ -1,10 +1,10 @@
 Activate.uhc.com - Secure Portal to Activate your UCard on UnitedHealthcare
 =====================================================
 
-To activate your UCard on UnitedHealthcare, visit the official activation page at `activate.uhc.com <https://activate.uhc.com>`_. You may need to log in or register for a UnitedHealthcare member account to complete the  UnitedHealthcare activation. 
+To activate your UCard on UnitedHealthcare, visit the official activation page at `activate.uhc.com <https://activate.uhc.com>`_. You may need to log in or register for a UnitedHealthcare member account to complete the UnitedHealthcare activation. 
 
 
-.. image:: get-button.png
+.. image:: get-started-here.png
    :alt: activate.uhc.com
    :target: https://activate.uhc.com
 
