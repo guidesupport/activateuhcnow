@@ -116,7 +116,7 @@ Why Should You Activate Your UHC Insurance Card?
 Activate Your Card Using the UHC Mobile App
 --------------------------------------------
 
-In addition to activate.uhc.com, UnitedHealthcare members can also activate their insurance cards through the UHC mobile app:
+In addition to `activate.uhc.com <https://activate.uhc.com>`_, UnitedHealthcare members can also activate their insurance cards through the UHC mobile app:
 
 - Download the UnitedHealthcare app from the App Store or Google Play Store.
 
@@ -170,7 +170,7 @@ activate.uhc.com is used by UnitedHealthcare members to activate their UCard and
 No, if your card is lost or deactivated, you’ll need a new card from UnitedHealthcare. Once received, visit activate.uhc.com to activate it.
 
 **Can I activate my UCard from my phone?**  
-Yes! The activate.uhc.com website is mobile-friendly. You can activate your UCard from any smartphone browser in just a few taps.
+Yes! The `activate.uhc.com <https://activate.uhc.com>`_ website is mobile-friendly. You can activate your UCard from any smartphone browser in just a few taps.
 
 **Does UCard activation unlock rewards?**  
 Yes, once activated, your UCard allows you to redeem health rewards and wellness incentives depending on your plan.
